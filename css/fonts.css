@@ -1,0 +1,90 @@
+@font-face {
+    font-family: 'upHeavtt';
+    src: url('../components/fonts/upheavtt.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'teamMeat';
+    src: url('../components/fonts/TeamMeatFont-Regular.otf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'dinBlack';
+    src: url('../components/fonts/DIN2014-ExtraBold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'dinBlackItalic';
+    src: url('../components/fonts//DIN2014-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'dinBold';
+    src: url('../components/fonts/DIN2014-Bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'dinBoldItalic';
+    src: url('../components/fonts/DIN2014-BoldItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'dinSemiBold';
+    src: url('../components/fonts/DIN2014-SemiBold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'dinSemiBoldItalic';
+    src: url('../components/fonts/DIN2014-SemiBoldItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'dinRegular';
+    src: url('../components/fonts/DIN2014-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'dinLigth';
+    src: url('../components/fonts/DIN2014-Light.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'dinLigthItalic';
+    src: url('../components/fonts/DIN2014-LightItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'dinExtraLigth';
+    src: url('../components/fonts/DIN2014-ExtraLight.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'dinExtraLigth';
+    src: url('../components/fonts/DIN2014-ExtraLightItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}

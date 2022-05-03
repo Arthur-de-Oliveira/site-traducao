@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OPS!</title>
+    <link rel="stylesheet" href="./css/styles.css">
+    <link rel="stylesheet" href="./css/fonts.css">
+    <link rel="stylesheet" href="./css/media.css">
+    <link rel="stylesheet" href="css/animations.css">
+    <link rel="shortcut icon" href="./components/images/favicon.png"
+    type="image/x-icon">
+    <style>
+        .ops {
+            display: block;
+            margin: 0 auto;
+            width: 400px;
+            margin-top: 17vh;
+            animation-name: up, float;
+            animation-duration: 2s, 5s;
+            animation-timing-function: ease, ease-in-out;
+            animation-direction: normal, alternate;
+            animation-delay: 0s, 1.5s;
+            animation-iteration-count: 1, infinite;
+            filter: drop-shadow(10px 10px 5px #0007);
+        }
+    </style>
+</head>
+<body>
+    <header class="header">
+        <img class="header__img" src="./components/images/logo-renascimento.png" alt="logo do projeto renascimento">
+        <nav>
+            <ul class="header__menu">
+                <li class="menu__item"><a href="index.html">Download</a></li>
+                <li class="menu__item"><a style="color: #D10000;" href="ops_tutorial.html">Tutorial</a></li>
+                <li class="menu__item"><a href="ops_itens.html">Itens</a></li>
+                <li class="menu__item"><a href="ops_chefes.html">Chefes</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main class="main">
+        <img class='ops' src="./components/images/ops.png" alt="Texto de alerta">
+    </main>
+
+    <footer class="footer">
+        <p class="footer__by">&copy<span>2022</span> <a class="footer__link" href="https://www.instagram.com/arthur_2k03/" target="_blank">Arthur</a> e <a class="footer__link" href="https://twitter.com/tpbmag" target="_blank">BMaG</a> | Que você veja o que a vida tem à oferecer</p>
+    </footer>
+</body>
+</html>
